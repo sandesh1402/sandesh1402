@@ -1,6 +1,4 @@
 
-![1000_F_83642646_XYHBCxJIFZNmbD6YjX0ZmhXQsTwaV2Is](https://github.com/sandesh1402/sandesh1402/assets/86662036/99d44bea-99fb-444f-9ad2-ce830d1daaf8)
-<!-- Your GitHub Profile README -->
 <p align="center">
   <img src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="Data Science GIF" width="600">
 </p>
