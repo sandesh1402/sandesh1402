@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" alt="Data Science GIF" width="200">
+  <img src="https://chools.in/wp-content/uploads/data-science-2-1.gif" alt="Data Science GIF" width="200">
 </p>
 
 <!-- Header -->
