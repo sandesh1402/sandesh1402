@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="Data Science GIF" width="600">
+  <img src=["https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif"](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif) alt="Data Science GIF" width="600">
 </p>
 
 <!-- Header -->
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6E00?style=flat" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-00BFFF?style=flat" alt="NLP">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </p>
 
 <!-- Contact and Connect -->
