@@ -40,26 +40,21 @@
 <a href="https://www.linkedin.com/in/sandesh-pal-536087192/a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 <!-- GitHub Activity Statistics -->
 <h3 align="center">GitHub Activity Statistics:</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandesh1402
-&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh1402
-" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandesh1402&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh1402" /> </p>
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandesh1402
-&show_icons=true&theme=dark&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandesh1402&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <!-- Top Languages Card -->
 <h3 align="center">Top Languages:</h3>
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh1402
-&layout=compact&theme=dark&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh1402&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <!-- GitHub Streak Card -->
 <h3 align="center">GitHub Streak:</h3>
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh1402
-&theme=dark&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh1402&theme=dark&hide_border=true" />
 </p>
 
 
